@@ -7,6 +7,7 @@ public class ValidNumber {
      * 1481 / 1481 test cases passed.
      * Status: Accepted
      * Runtime: 56 ms
+     * Your runtime beats 2.52% of java submissions.
      *
      * @param s the string to test
      * @return true if the input string is a number, false otherwise

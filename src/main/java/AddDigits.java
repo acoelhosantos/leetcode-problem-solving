@@ -7,6 +7,7 @@ public class AddDigits {
      * 1101 / 1101 test cases passed.
      * Status: Accepted
      * Runtime: 5 ms
+     * Your runtime beats 3.07% of java submissions.
      *
      * @param num the number to compute
      * @return the sum of all digit operations until only one digit remains
